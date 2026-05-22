@@ -1,9 +1,3 @@
-# profile-title: 🏴 ЧЕРНЫЕ СПИСКИ 🏴 BLACK LISTS | Mobile-150
-# profile-update-interval: 1
-# Date/Time: 2026-05-22 / 10:37 (Moscow)
-# Количество: 150
-# For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
-
 vless://43274ef7-e126-4c8f-8989-5cdfecd33e20@am.skytunnel.pw:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=bunny.net&fp=qq&security=reality&pbk=QGlJtT7TdXFaIctNpsvykWqAgTR3VCq3Z0H94-QKHDc&sid=#%F0%9F%87%AA%F0%9F%87%B8%20Spain%2C%20Barcelona%20%7C%20%5BBL%5D
 vless://7eb99461-851a-419d-aafd-b857e7b32b83@77.110.121.202:23164?type=tcp&headerType=none&security=reality&encryption=none&sni=teamdocs.su&fp=chrome&pbk=XoIxfrtYaItQL-X_zvZqTcCHBF3_LhIiptW9ph3Rgjs&sid=62&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2C%20Stockholm%20%7C%20%5BBL%5D
 vless://030f6019-b8ce-4de8-911f-35b0ee11c33c@gb.oneok.name:7443?type=tcp&headerType=none&security=reality&encryption=none&sni=chat.deepseek.com&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047&flow=xtls-rprx-vision#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20Leyton%20%7C%20%5BBL%5D
